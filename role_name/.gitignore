@@ -3,3 +3,7 @@
 
 # Galaxy roles
 galaxy_roles/
+
+# Mac files
+.DS_Store
+._*
