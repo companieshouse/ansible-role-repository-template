@@ -1,0 +1,5 @@
+# Ansible
+*.retry
+
+# Galaxy roles
+galaxy_roles/
