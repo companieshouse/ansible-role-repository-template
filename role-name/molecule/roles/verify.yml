@@ -6,4 +6,4 @@
   tasks:
     - name: Test Description
       include_role:
-        name: test_role_name
+        name: test-role-name
