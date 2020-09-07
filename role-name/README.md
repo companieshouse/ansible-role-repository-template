@@ -23,8 +23,8 @@ A list of other roles hosted on Galaxy should go here, plus any details in regar
 How you use the role within a given project
 
 ```
-- src: https://github.com/companieshouse/<role_name>
-  name: <role_name>
+- src: https://github.com/companieshouse/<role-name>
+  name: <role-name>
   version: "<branch/tag>"
 ```  
 
